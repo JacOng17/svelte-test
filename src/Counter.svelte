@@ -1,7 +1,7 @@
 <script>
 	let count = 0;
 	$: doubled = count * 2;
-	$: if (count >= 10) {
+	$: if (count >= 100) {
 		alert(`count is dangerously high!`);
 		count = 9;
 	}
