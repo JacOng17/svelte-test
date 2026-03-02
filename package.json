@@ -11,7 +11,7 @@
     "svelte": "^4.2.19"
   },
   "dependencies": {
-    "serialize-javascript": "^4.0.0",
+    "serialize-javascript": "^7.0.3",
     "sirv-cli": "^0.4.4"
   },
   "scripts": {
